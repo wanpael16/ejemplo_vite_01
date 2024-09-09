@@ -9,7 +9,6 @@ import ComponenteFuncional from "./componentes/ComponenteFuncional";
 import StyleComponent from "./componentes/StyleComponent";
 
 
-
 function App() {
  
   return (
