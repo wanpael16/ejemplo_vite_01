@@ -1,0 +1,12 @@
+[1mdiff --git a/ejemplo_vite_1/src/componentes/StyleComponent.jsx b/ejemplo_vite_1/src/componentes/StyleComponent.jsx[m
+[1mindex 2d4817f..da2f92c 100644[m
+[1m--- a/ejemplo_vite_1/src/componentes/StyleComponent.jsx[m
+[1m+++ b/ejemplo_vite_1/src/componentes/StyleComponent.jsx[m
+[36m@@ -5,6 +5,7 @@[m [mimport styled from '@emotion/styled';[m
+ export const Titulo = styled.h1`[m
+   font-size: 40px;[m
+   color:red;[m
+[32m+[m[32m  background:red;[m
+ `[m
+ [m
+ export const Circulo = styled.div`[m

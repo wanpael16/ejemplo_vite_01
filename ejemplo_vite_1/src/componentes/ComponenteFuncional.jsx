@@ -39,6 +39,8 @@ export default function ComponenteFuncional() {
         <div>no es 12</div>
       )}
 
+      {/* {(numero== 12) && <Numero numero={numero}/>} */}
+
       <hr />
 
       <ChildrenComponent otro="más contenido">

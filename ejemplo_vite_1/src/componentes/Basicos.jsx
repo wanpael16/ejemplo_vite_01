@@ -50,6 +50,7 @@ function Basicos() {
         </>
       )}
 
+
       <h1>Renderizado switch case</h1>
       {(() => {
         switch (numero) {
@@ -65,6 +66,7 @@ function Basicos() {
         }
       })()}
 
+   
       <hr />
       <h1>Ejmplos de Loop</h1>
       <h3>Loop normal con es6</h3>
